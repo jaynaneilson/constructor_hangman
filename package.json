@@ -1,0 +1,23 @@
+{
+  "name": "constuctor_hangman",
+  "version": "1.0.0",
+  "description": "CLI Hangman Game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaynaneilson/constructor_hangman.git"
+  },
+  "author": "Jayna Neilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaynaneilson/constructor_hangman/issues"
+  },
+  "homepage": "https://github.com/jaynaneilson/constructor_hangman#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^5.0.1"
+  }
+}
