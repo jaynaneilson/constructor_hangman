@@ -11,12 +11,10 @@ Run <node main.js> in the command line.
 ```
 Follow the user prompts. 
 ```
-```
 Have fun!:sparkles:
-```
+
 ## Built With
 * [Node.js](https://nodejs.org)
 * [Sublime](https://www.sublimetext.com/)
 * [NPM Inquirer](https://www.npmjs.com/package/inquirer)
-
 
